@@ -12,7 +12,7 @@
 
 ---
 
-## 👨‍💼 About Me
+##  About Me
 
 🔹 I work as a **Technical Recruiter at Siri InfoSolutions Inc.**, helping US clients find top-tier IT talent.  
 🔹 Experienced in **Full Life Cycle Recruiting**, Applicant Tracking Systems, and Internet Sourcing.  
@@ -23,15 +23,15 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
-### 👨‍💻 Full Stack Development:
+### Full Stack Development:
 - **Languages**: Python, JavaScript, SQL, HTML5, CSS3
 - **Frameworks**: Django, Bootstrap, jQuery
 - **Database**: MySQL
 - **Frontend Tools**: Responsive Design, Web Design, Clean Coding, UI/UX
 
-### 📋 Tools & Platforms:
+###  Tools & Platforms:
 - Applicant Tracking Systems (ATS)
 - Dice, Monster, CareerBuilder, LinkedIn Recruiter
 - Git, GitHub, VSCode
@@ -39,7 +39,7 @@
 
 ---
 
-## 🛠️ Skills & Competencies
+##  Skills & Competencies
 
 - ✅ **Recruiting & HR**: Technical Recruiting, Interviewing, Sourcing, Talent Management, Employee Relations  
 - ✅ **Sales & Client Management**: Managing Expectations, Social Media Engagement, Lead Generation  
@@ -49,5 +49,5 @@
 
 ---
 
-## 🧠 Featured Skills Summary
+##  Featured Skills Summary
 
