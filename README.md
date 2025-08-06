@@ -39,15 +39,16 @@
 
 ---
 
-##  Skills & Competencies
+##  Skills
 
-- ✅ **Recruiting & HR**: Technical Recruiting, Interviewing, Sourcing, Talent Management, Employee Relations  
-- ✅ **Sales & Client Management**: Managing Expectations, Social Media Engagement, Lead Generation  
-- ✅ **Web Development**: Full Stack Development, Web Design, Front-End Development, Clean Code Practices  
-- ✅ **Soft Skills**: Communication, Analytical Skills, Project Management, Time Management  
-- ✅ **Languages**: English, Hindi
+- **Languages**: Python, JavaScript, SQL, HTML5, CSS3
+- **Frameworks & Libraries**: Django, Bootstrap, jQuery
+- **Databases**: MySQL
+- **Recruiting Tools**: ATS (Dice, Monster, CareerBuilder, JobDiva)
+- **Tech Skills**: Full Stack Development, Responsive Web Design, Clean Code, Frontend Design
+- **Soft Skills**: Communication, Time Management, Analytical Thinking
+- **Sales & Insurance**: Life Insurance Consulting, Lead Generation, Client Handling
 
 ---
 
-##  Featured Skills Summary
 
